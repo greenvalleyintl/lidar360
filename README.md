@@ -1,0 +1,2 @@
+# lidar360
+LiDAR360 is a powerful software for processing, analyzing and manipulating LiDAR data; It provides the ability to visualize large point cloud data and automatically align flight strips, classify points (ie: ground, vegetation, power lines, etc.) and generate numerous spatial products. Some key tools includes surface modelling, point cloud classification, strips alignment, urban, powerline, forest and mapping toolsets.
